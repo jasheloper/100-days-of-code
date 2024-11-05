@@ -1,8 +1,10 @@
 # 100 Days of Code
-Documenting progress here. 🎧
+
+🎧 **Objective:** Relearning HTML, CSS, and JS as if I were starting from scratch and documenting the progress here. 
+
+📌 **Note:** This is round 3. Check it out from the beginning @ [round 1](https://docs.google.com/spreadsheets/d/1hp8RyY3BaAafrSo6J2gqnDU5Scm8aGOOIUfpcOcjq_U/edit?gid=0#gid=0) and [round 2](https://docs.google.com/spreadsheets/d/1hp8RyY3BaAafrSo6J2gqnDU5Scm8aGOOIUfpcOcjq_U/edit?gid=729574785#gid=729574785). (I was previously keeping track in a spreadsheet)
 
 <br>
-
 
 | **DAY**   | **DESCRIPTION** |
 |-------|-------------|
