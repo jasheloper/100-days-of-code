@@ -1,4 +1,4 @@
-# 100 Days of Code
+# 100 Days of Code - Jashele T.
 
 🎧 **Objective:** <br> 
 Relearning HTML, CSS, and JS as if I were starting from scratch. 
