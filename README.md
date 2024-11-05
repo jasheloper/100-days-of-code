@@ -22,7 +22,7 @@ This is round 3 - you can check it out from the beginning @ [round 1](https://do
 | **DAY**   | **DESCRIPTION** |
 |-------|-------------|
 | **Day 1** 👋 | • [Intro to Web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
-| **Day 2** | • finished up [Intro to Web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction) <br> • Tested out the **Web Audio API** for fun @ [github.com/jasheloper/web-audio-api-test](https://github.com/jasheloper/web-audio-api-test) <br> • and wow, never knew about [`<input type="range">`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/range) pretty cool! 
+| **Day 2** | • finished up [Intro to Web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction) <br> • Tested out the **Web Audio API** for fun @ [github.com/jasheloper/web-audio-api-test](https://github.com/jasheloper/web-audio-api-test) <br> 💡and wow, never knew about [`<input type="range">`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/range) pretty cool! 
 | **Day 3** |  
 | **Day 4** |  
 | **Day 5** |  
