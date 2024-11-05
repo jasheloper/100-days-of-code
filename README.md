@@ -1,3 +1,6 @@
+# 100 Days of Code
+Documenting progress here.
+
 | **DAY**   | **DESCRIPTION** |
 |-------|-------------|
 | **Day 1** | • [Intro to Web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
