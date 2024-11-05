@@ -1,13 +1,8 @@
 # 100 Days of Code - Jashele T.
 
-🎧 **Objective:** <br> 
-Relearning HTML, CSS, and JS as if I were starting from scratch. 
-Documenting the progress here.
-
-
-🔗 **Links:** <br> 
-[Link to this Repo](https://jasheloper.github.io/100-days-of-code/) | [Portfolio - devjashele.tech](https://devjashele.tech/)
-
+| 🎧 **Objective:** | 🔗 **Links:**
+|----------------|------------|
+| Relearning HTML, CSS, and JS as if I were starting from scratch. Documenting the progress here. | • [Link to this Repo](https://jasheloper.github.io/100-days-of-code/) <br> • [Portfolio - devjashele.tech](https://devjashele.tech/)
 
 --------------------------------------------------
 
