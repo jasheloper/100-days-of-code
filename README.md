@@ -2,7 +2,7 @@
 
 | 🎧 **Objective:** | 🔗 **Links:**
 |----------------|------------|
-| Relearning HTML, CSS, and JS as if I were starting from scratch. Documenting the progress here. | • [Link to this Repo](https://jasheloper.github.io/100-days-of-code/) <br> • [Portfolio - devjashele.tech](https://devjashele.tech/)
+| Relearning HTML, CSS, and JS as if I were starting from scratch. <br> Documenting the progress here. | • [Link to this Repo](https://jasheloper.github.io/100-days-of-code/) <br> • [Portfolio - devjashele.tech](https://devjashele.tech/)
 
 --------------------------------------------------
 
