@@ -25,7 +25,7 @@ This is round 3 - you can check it out from the beginning @ [round 1](https://do
 | **Day 2** | • finished up [Intro to Web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction) <br> • Tested out the **Web Audio API** for fun @ [github.com/jasheloper/web-audio-api-test](https://github.com/jasheloper/web-audio-api-test) <br> 💡and wow, never knew about [`<input type="range">`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/range) pretty cool! 
 | **Day 3** | • Quick review of [Manipulating Documents (DOM)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
 | **Day 4** | • Basic DOM review/practice creating & moving elements -  [view repo](https://github.com/jasheloper/basic-dom)
-| **Day 5** | • Code challenge: <a href="https://codepen.io/jt_1/pen/pvzddJm" target="_blank">Password Security</a>
+| **Day 5** | • Code challenge: [Password Security](https://codepen.io/jt_1/pen/pvzddJm)
 | **Day 6** |  
 | **Day 7** |  
 | **Day 8** |  
