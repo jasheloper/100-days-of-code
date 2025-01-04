@@ -1,106 +1,105 @@
 # 100 Days of Code - Jashele T.
 
-<br>
 
 | **DAY**   | **DESCRIPTION** |
 |-------|-------------|
-| **Day 1** 👋 | • [Intro to Web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
-| **Day 2** | • finished up [Intro to Web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction) <br> • Tested out the **Web Audio API** for fun @ [github.com/jasheloper/web-audio-api-test](https://github.com/jasheloper/web-audio-api-test) <br> 💡and wow, never knew about [`<input type="range">`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/range) pretty cool! 
-| **Day 3** | • Quick review of [Manipulating Documents (DOM)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
-| **Day 4** | • Basic DOM review/practice creating & moving elements -  [view repo](https://github.com/jasheloper/basic-dom)
-| **Day 5** | • Code challenge 1: [Password Security](https://codepen.io/jt_1/pen/pvzddJm) <br> • Code challenge 2: [Check Box](https://codepen.io/jt_1/pen/OPLOOXw) <br> • Code Challenge 3: [Return specific array elements](https://codepen.io/jt_1/pen/EaYbbNy) <br> • Code Challenge 4: [Return variables in JSON Notation](https://codepen.io/jt_1/pen/bNbYYqO)
-| **Day 6** |  
-| **Day 7** |  
-| **Day 8** |  
-| **Day 9** |  
-| **Day 10** |  
-| **Day 11** |  
-| **Day 12** |  
-| **Day 13** |  
-| **Day 14** |  
-| **Day 15** |  
-| **Day 16** |  
-| **Day 17** |  
-| **Day 18** |  
-| **Day 19** |  
-| **Day 20** |  
-| **Day 21** |  
-| **Day 22** |  
-| **Day 23** |  
-| **Day 24** |  
-| **Day 25** |  
-| **Day 26** |  
-| **Day 27** |  
-| **Day 28** |  
-| **Day 29** |  
-| **Day 30** |  
-| **Day 31** |  
-| **Day 32** |  
-| **Day 33** |  
-| **Day 34** |  
-| **Day 35** |  
-| **Day 36** |  
-| **Day 37** |  
-| **Day 38** |  
-| **Day 39** |  
-| **Day 40** |  
-| **Day 41** |  
-| **Day 42** |  
-| **Day 43** |  
-| **Day 44** |  
-| **Day 45** |  
-| **Day 46** |  
-| **Day 47** |  
-| **Day 48** |  
-| **Day 49** |  
-| **Day 50** |  
-| **Day 51** |  
-| **Day 52** |  
-| **Day 53** |  
-| **Day 54** |  
-| **Day 55** |  
-| **Day 56** |  
-| **Day 57** |  
-| **Day 58** |  
-| **Day 59** |  
-| **Day 60** |  
-| **Day 61** |  
-| **Day 62** |  
-| **Day 63** |  
-| **Day 64** |  
-| **Day 65** |  
-| **Day 66** |  
-| **Day 67** |  
-| **Day 68** |  
-| **Day 69** |  
-| **Day 70** |  
-| **Day 71** |  
-| **Day 72** |  
-| **Day 73** |  
-| **Day 74** |  
-| **Day 75** |  
-| **Day 76** |  
-| **Day 77** |  
-| **Day 78** |  
-| **Day 79** |  
-| **Day 80** |  
-| **Day 81** |  
-| **Day 82** |  
-| **Day 83** |  
-| **Day 84** |  
-| **Day 85** |  
-| **Day 86** |  
-| **Day 87** |  
-| **Day 88** |  
-| **Day 89** |  
-| **Day 90** |  
-| **Day 91** |  
-| **Day 92** |  
-| **Day 93** |  
-| **Day 94** |  
-| **Day 95** |  
-| **Day 96** |  
-| **Day 97** |  
-| **Day 98** |  
-| **Day 99** |  
-| **Day 100** ✅ |  
+| **Day 1** 👋 | <br> • [Intro to Web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction) <br><br>
+| **Day 2** | <br> • finished up [Intro to Web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction) <br> • Tested out the **Web Audio API** for fun @ [github.com/jasheloper/web-audio-api-test](https://github.com/jasheloper/web-audio-api-test) <br> 💡and wow, never knew about [`<input type="range">`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/range) pretty cool! <br><br>
+| **Day 3** | <br> • Quick review of [Manipulating Documents (DOM)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents) <br><br>
+| **Day 4** | <br> • Basic DOM review/practice creating & moving elements -  [view repo](https://github.com/jasheloper/basic-dom) <br><br>
+| **Day 5** | <br> **Doing Challenges from [JSCodebox](https://jscodebox.com/):** <br> <br> • Code challenge 1: [Password Security](https://codepen.io/jt_1/pen/pvzddJm) <br> • Code challenge 2: [Check Box](https://codepen.io/jt_1/pen/OPLOOXw) <br> • Code Challenge 3: [Return specific array elements](https://codepen.io/jt_1/pen/EaYbbNy) <br> • Code Challenge 4: [Return variables in JSON Notation](https://codepen.io/jt_1/pen/bNbYYqO) <br><br>
+| **Day 6** | <br> 
+| **Day 7** | <br> 
+| **Day 8** | <br>  
+| **Day 9** | <br> 
+| **Day 10** | <br>  
+| **Day 11** | <br> 
+| **Day 12** | <br> 
+| **Day 13** | <br>   
+| **Day 14** | <br>  
+| **Day 15** | <br>   
+| **Day 16** | <br>  
+| **Day 17** | <br>  
+| **Day 18** | <br>  
+| **Day 19** | <br>  
+| **Day 20** | <br>  
+| **Day 21** | <br>  
+| **Day 22** | <br>  
+| **Day 23** | <br>  
+| **Day 24** | <br>  
+| **Day 25** | <br>  
+| **Day 26** | <br>  
+| **Day 27** | <br>  
+| **Day 28** | <br>  
+| **Day 29** | <br>  
+| **Day 30** | <br>  
+| **Day 31** | <br>  
+| **Day 32** | <br>  
+| **Day 33** | <br>  
+| **Day 34** | <br>  
+| **Day 35** | <br>  
+| **Day 36** | <br>  
+| **Day 37** | <br>  
+| **Day 38** | <br>  
+| **Day 39** | <br>  
+| **Day 40** | <br>  
+| **Day 41** | <br>  
+| **Day 42** | <br>  
+| **Day 43** | <br>  
+| **Day 44** | <br>  
+| **Day 45** | <br>  
+| **Day 46** | <br>  
+| **Day 47** | <br>  
+| **Day 48** | <br>  
+| **Day 49** | <br>  
+| **Day 50** | <br>  
+| **Day 51** | <br>  
+| **Day 52** | <br>  
+| **Day 53** | <br>  
+| **Day 54** | <br>  
+| **Day 55** | <br>  
+| **Day 56** | <br>  
+| **Day 57** | <br>  
+| **Day 58** | <br>  
+| **Day 59** | <br>  
+| **Day 60** | <br>  
+| **Day 61** | <br>  
+| **Day 62** | <br>  
+| **Day 63** | <br>  
+| **Day 64** | <br>  
+| **Day 65** | <br>  
+| **Day 66** | <br>  
+| **Day 67** | <br>  
+| **Day 68** | <br>  
+| **Day 69** | <br>  
+| **Day 70** | <br>  
+| **Day 71** | <br>  
+| **Day 72** | <br>  
+| **Day 73** | <br>  
+| **Day 74** | <br>  
+| **Day 75** | <br>  
+| **Day 76** | <br>  
+| **Day 77** | <br>  
+| **Day 78** | <br>  
+| **Day 79** | <br>  
+| **Day 80** | <br>  
+| **Day 81** | <br>  
+| **Day 82** | <br>  
+| **Day 83** | <br>  
+| **Day 84** | <br>  
+| **Day 85** | <br>  
+| **Day 86** | <br>  
+| **Day 87** | <br>  
+| **Day 88** | <br>  
+| **Day 89** | <br>  
+| **Day 90** | <br>  
+| **Day 91** | <br>  
+| **Day 92** | <br>  
+| **Day 93** | <br>  
+| **Day 94** | <br>  
+| **Day 95** | <br>  
+| **Day 96** | <br>  
+| **Day 97** | <br>  
+| **Day 98** | <br>  
+| **Day 99** | <br>  
+| **Day 100** ✅ | <br>
