@@ -8,7 +8,7 @@
 | **Day 3** | <br> • **Quick review:** [Manipulating Documents (DOM)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents) <br><br>
 | **Day 4** | <br> • Basic DOM review/practice creating & moving elements @ [github.com/jasheloper/basic-dom](https://github.com/jasheloper/basic-dom) <br><br>
 | **Day 5** | <br> **I took a month long break so doing challenges from [JSCodebox](https://jscodebox.com/) to warm up:** <br> <br> **All solutions are in my CodePen, links below.** <br> <br> • Code challenge 1: [Password Security](https://codepen.io/jt_1/pen/pvzddJm) <br> • Code challenge 2: [Check Box](https://codepen.io/jt_1/pen/OPLOOXw) <br> • Code Challenge 3: [Return specific array elements](https://codepen.io/jt_1/pen/EaYbbNy) <br> • Code Challenge 4: [Return variables in JSON Notation](https://codepen.io/jt_1/pen/bNbYYqO) <br><br>
-| **Day 6** | <br> • **Reading:** Making network requests with JavaScript <br> • Working through example code @ [github.com/jasheloper/fetch-example](https://github.com/jasheloper/fetch-example)<br><br>
+| **Day 6** | <br> • **Reading:** [Making network requests with JavaScript](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Network_requests) <br> • Working through example code @ [github.com/jasheloper/fetch-example](https://github.com/jasheloper/fetch-example)<br><br>
 | **Day 7** | <br> 
 | **Day 8** | <br>  
 | **Day 9** | <br> 
