@@ -11,7 +11,7 @@
 | **Day 6** | <br> • **Reading:** [Making network requests with JavaScript](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Network_requests) <br> • Working through example code @ [github.com/jasheloper/fetch-example](https://github.com/jasheloper/fetch-example)<br><br>
 | **Day 7** | <br> • Need to briefly switch gears and revamp my [web development](https://github.com/jasheloper/portfolio) portfolio. <br><br>
 | **Day 8** | <br> • Making progress on [web development](https://github.com/jasheloper/portfolio) portfolio. <br><br>
-| **Day 9** | <br> 
+| **Day 9** | <br> • Making progress on [web development](https://github.com/jasheloper/portfolio) portfolio. <br><br>
 | **Day 10** | <br>  
 | **Day 11** | <br> 
 | **Day 12** | <br> 
