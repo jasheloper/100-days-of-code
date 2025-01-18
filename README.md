@@ -15,7 +15,7 @@
 | **Day 10** | <br> • Making progress on [web development](https://github.com/jasheloper/portfolio) portfolio. <br><br>
 | **Day 11** | <br> • Making progress on [web development](https://github.com/jasheloper/portfolio) portfolio. <br><br>
 | **Day 12** | <br> • Making progress on [web development](https://github.com/jasheloper/portfolio) portfolio. <br><br>
-| **Day 13** | <br>   
+| **Day 13** | <br> • Making progress on [web development](https://github.com/jasheloper/portfolio) portfolio. <br><br> 
 | **Day 14** | <br>  
 | **Day 15** | <br>   
 | **Day 16** | <br>  
