@@ -10,8 +10,7 @@
 | **Day 5** | <br> **I took a month long break so doing challenges from [JSCodebox](https://jscodebox.com/) to warm up:** <br> <br> **All solutions are in my CodePen, links below.** <br> <br> • Code challenge 1: [Password Security](https://codepen.io/jt_1/pen/pvzddJm) <br> • Code challenge 2: [Check Box](https://codepen.io/jt_1/pen/OPLOOXw) <br> • Code Challenge 3: [Return specific array elements](https://codepen.io/jt_1/pen/EaYbbNy) <br> • Code Challenge 4: [Return variables in JSON Notation](https://codepen.io/jt_1/pen/bNbYYqO) <br><br>
 | **Day 6** | <br> • **Reading:** [Making network requests with JavaScript](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Network_requests) <br> • Working through example code @ [github.com/jasheloper/fetch-example](https://github.com/jasheloper/fetch-example)<br><br>
 | **Day 7** | <br> • Need to briefly switch gears and revamp my [web development](https://github.com/jasheloper/portfolio) portfolio. <br><br>
-| **Day 8 - 17** | <br> • Making progress on [web development](https://github.com/jasheloper/portfolio) portfolio. <br><br>
-| **Day 18** | <br>  
+| **Day 8 - 18** | <br> • Making progress on [web development](https://github.com/jasheloper/portfolio) portfolio. <br><br>
 | **Day 19** | <br>  
 | **Day 20** | <br>  
 | **Day 21** | <br>  
