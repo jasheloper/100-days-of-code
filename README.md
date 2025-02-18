@@ -12,8 +12,7 @@
 | **Day 7** | <br> • Need to briefly switch gears and revamp my [web development](https://github.com/jasheloper/portfolio) portfolio. <br><br>
 | **Day 8 - 18** | <br> • Making progress on [web development](https://github.com/jasheloper/portfolio) portfolio. <br><br>
 | **Day 19 - 20** | <br> • Worked on sprucing up the styling for one of the [JS coding projects](https://github.com/jasheloper/color-tile-playground) that will be featured in my portfolio. <br> <br> • Significant progress has been made for the projects portion of [my portfolio](https://github.com/jasheloper/portfolio/upload). The bulk of the work was styling the project cards (headings, summary, buttons, etc). It's coming along nicely!  <br><br>
-| **Day 21 - 26** | <br> • Making progress on [web development](https://github.com/jasheloper/portfolio) portfolio. <br><br>
-| **Day 27** | <br>  
+| **Day 21 - 27** | <br> • Making progress on [web development](https://github.com/jasheloper/portfolio) portfolio. <br><br>
 | **Day 28** | <br>  
 | **Day 29** | <br>  
 | **Day 30** | <br>  
